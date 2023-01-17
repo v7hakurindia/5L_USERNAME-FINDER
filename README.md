@@ -23,3 +23,6 @@ The bot will send you usernames on your telegram.
   ```
   $ python3 main.py
   ```
+
+### Make sure you have Telegram bot TOKEN ID. 
+### IF ANY ISSUE HAPPEN TEXT ME ON MY INSTAGRAM.
