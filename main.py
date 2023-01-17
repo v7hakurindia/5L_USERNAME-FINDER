@@ -10,6 +10,7 @@ words='1234567890qwertyuiopasdfghjklzxcvbnm'
 all='_._._._._.'
 
 pyfiglet.print_figlet('MADE BY 0FERB0')
+print(Fore.MAGENTA+"MADE BY 0FERB0")
 
 #-------------------------start code --------------------------#
 def instaa(user):
