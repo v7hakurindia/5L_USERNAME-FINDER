@@ -21,4 +21,4 @@ The bot will send you usernames on your telegram.
 - Now run the  script -
   ```
  $ python3 main.py
-  ```
+   ```
