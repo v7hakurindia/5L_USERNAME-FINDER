@@ -19,5 +19,6 @@ The bot will send you usernames on your telegram.
   $ pip3 install -r requirements.txt
   ```
 - Now run the  script -
-- $ python3 main.py
   ```
+- $ python3 main.py
+ 
