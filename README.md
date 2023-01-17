@@ -11,15 +11,13 @@ The bot will send you usernames on your telegram.
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone https://github.com/0ferb0/5L_USERNAME-FINDER
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Now go to cloned directory and run `requirements.txt` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+  $ pip3 install -r requirements.txt
   ```
-
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
-
-##
+- Now run the  script -
+- $ python3 main.py
+  ```
