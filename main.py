@@ -9,8 +9,8 @@ words='1234567890qwertyuiopasdfghjklzxcvbnm'
 
 all='_._._._._.'
 
-pyfiglet.print_figlet('MADE BY 0FERB0')
-print(Fore.MAGENTA+"MADE BY 0FERB0")
+pyfiglet.print_figlet('MADE BY V7HAKUR')
+print(Fore.MAGENTA+"MADE BY V7HAKUR")
 
 #-------------------------start code --------------------------#
 def instaa(user):
@@ -51,7 +51,7 @@ def instaa(user):
 ←•━━━━━━━━━━━━•→
 🏆 𝚄𝚂𝙴𝚁 ➠ {user}
 ←•━━━━━━━━━━━━•→
-🚫 𝐁𝐘 » 1FERB"""
+🚫 𝐁𝐘 » V7HAKUR"""
         requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text={god}')
 def users():
     ran1="1234567890.._qwertyuiopasdfghjklzxvcbnm_.."
